@@ -97,16 +97,6 @@ TravelMind/
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here after deployment.
-
-| Home Page | Generated Itinerary |
-|-----------|---------------------|
-| Add Screenshot | Add Screenshot |
-
----
-
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork this repository, create a new branch, and submit a pull request.
