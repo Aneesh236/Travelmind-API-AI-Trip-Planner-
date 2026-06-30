@@ -1,4 +1,4 @@
-# 🌍 TravelMind – AI-Powered Travel Planner Using Gradio
+# 🌍 TravelMind – AI-Powered-Travel Planner Using Gradio
 
 TravelMind is an AI-powered travel planning application that generates personalized travel itineraries based on your destination, trip duration, budget, travel style, and interests. Powered by the OpenAI API and built with Gradio, it provides intelligent travel recommendations through an interactive web interface.
 
